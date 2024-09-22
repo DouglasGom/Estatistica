@@ -91,7 +91,7 @@ a {
 /* Home */
 #home {
   position: relative;
-  background-image: url("images/background.png");
+  background-image: url(images/background.png);
   width: 100%;
   height: 99.9vh;
   background-repeat: no-repeat;
